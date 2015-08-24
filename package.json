@@ -1,0 +1,15 @@
+{
+  "name": "hilltopperson",
+  "version": "1.0.0",
+  "description": "Hilltop API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "highland": "^2.5.1"
+  }
+}
